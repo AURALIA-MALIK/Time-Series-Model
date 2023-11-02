@@ -15,9 +15,7 @@ Build the time-series chart.
 Finally, create a GitHub Repository and push your work there, also document your process through each of the steps and demonstrate your understanding by implementing them on the dataset.
 
 * Conclusions:
-** Trend Observation: The time series chart demonstrates price fluctuations over the specified time period, which is important to monitor and understand.
+* Trend Observation: The time series chart demonstrates price fluctuations over the specified time period, which is important to monitor and understand.
+* Anomaly Detection: Notably, there was a sharp increase in price from 10 to 15 on April 16, 2021, followed by fluctuations, including a drop to 8 on April 23, 2021. These fluctuations suggest anomalies or unusual events during this time.
 
-** Anomaly Detection: Notably, there was a sharp increase in price from 10 to 15 on April 16, 2021, followed by fluctuations, including a drop to 8 on April 23, 2021. These fluctuations suggest anomalies or unusual events during this time.
-
-* Recommendations
-** Continuous Monitoring on price over time to identify and respond to trends or anomalies promptly.
+* Recommendations: Continuous Monitoring on price over time to identify and respond to trends or anomalies promptly.
